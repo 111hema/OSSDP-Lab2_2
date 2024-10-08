@@ -4,6 +4,18 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class Solution12Test {
 
+    /*
+     * Test Principles:
+     * 
+     * - Both inputs are valid non-negative integers.
+     *      
+     * - At least one input is "0".
+     *      
+     * - Inputs have different lengths.
+     *
+     * - Extremely large results.
+     */
+
     /**
      * Test two small numbers.
      */
